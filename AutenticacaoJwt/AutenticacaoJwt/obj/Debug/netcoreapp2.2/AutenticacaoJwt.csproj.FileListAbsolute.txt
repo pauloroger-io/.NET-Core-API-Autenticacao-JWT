@@ -1,0 +1,14 @@
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\bin\Debug\netcoreapp2.2\AutenticacaoJwt.deps.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\bin\Debug\netcoreapp2.2\AutenticacaoJwt.runtimeconfig.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\bin\Debug\netcoreapp2.2\AutenticacaoJwt.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\bin\Debug\netcoreapp2.2\AutenticacaoJwt.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\bin\Debug\netcoreapp2.2\AutenticacaoJwt.pdb
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.RazorAssemblyInfo.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.RazorAssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.AssemblyInfo.cs
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.RazorTargetAssemblyInfo.cache
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.dll
+C:\Users\Paulo\Documents\GitHub\.NET-Core-API-Autenticacao-JWT\AutenticacaoJwt\AutenticacaoJwt\obj\Debug\netcoreapp2.2\AutenticacaoJwt.pdb
