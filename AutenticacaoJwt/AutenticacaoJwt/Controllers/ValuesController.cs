@@ -12,9 +12,24 @@ namespace AutenticacaoJwt.Controllers
     {
         // GET api/values
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            string texto =
+
+@"Envie um POST para a rota => api/usuario/obtertoken
+com o JSON abaixo no body
+
+{
+ 'usuario': 'fd98fda89fda79f8da798ffds7fdsh79da',
+ 'senha': 'fd98fda89fda79f8da798ffds7fdsh79daSenha',
+ 'email': 'fd98fda89fda79f8da798ffds7fdsh79da@gmail.com'
+}
+
+
+Após receber o token, envie um GET para a rota api/usuario/testandotoken com o token como Authorization, TYPE Bearer Token
+";
+
+            return texto;
         }
 
         // GET api/values/5
